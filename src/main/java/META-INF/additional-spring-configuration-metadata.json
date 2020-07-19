@@ -1,0 +1,242 @@
+{"properties": [
+  {
+    "name": "log4j.appender.dest1.layout.ConversionPattern",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.appender.dest1.layout.ConversionPattern'"
+  },
+  {
+    "name": "log4j.appender.dest1.maxBackupIndex",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.appender.dest1.maxBackupIndex'"
+  },
+  {
+    "name": "log4j.appender.dest1.maxFileSize",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.appender.dest1.maxFileSize'"
+  },
+  {
+    "name": "log4j.appender.dest1.Append",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.appender.dest1.Append'"
+  },
+  {
+    "name": "log4j.appender.dest1.Append",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.appender.dest1.Append'"
+  },
+  {
+    "name": "log4j.appender.dest1.Append",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.appender.dest1.Append'"
+  },
+  {
+    "name": "log4j.appender.dest1.Append",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.appender.dest1.Append'"
+  },
+  {
+    "name": "log4j.appender.dest1.Append",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.appender.dest1.Append'"
+  },
+  {
+    "name": "log4j.appender.dest1.File",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.appender.dest1.File'"
+  },
+  {
+    "name": "security.oauth2.client.scope",
+    "type": "java.lang.String",
+    "description": "A description for 'security.oauth2.client.scope'"
+  },
+  {
+    "name": "security.oauth2.client.client-id",
+    "type": "java.lang.String",
+    "description": "A description for 'security.oauth2.client.client-id'"
+  },
+  {
+    "name": "log4j.logger.devpinoyLogger",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.logger.devpinoyLogger'"
+  },
+  {
+    "name": "log4j.appender.stdout.layout.ConversionPattern",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.appender.stdout.layout.ConversionPattern'"
+  },
+  {
+    "name": "log4j.appender.fileOut",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.appender.fileOut'"
+  },
+  {
+    "name": "log4j.rootCategory",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.rootCategory'"
+  },
+  {
+    "name": "log4j.category.br.com.pacote1",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.category.br.com.pacote1'"
+  },
+  {
+    "name": "log4j.appender.fileOut.File",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.appender.fileOut.File'"
+  },
+  {
+    "name": "log4j.appender.fileOut.MaxFileSize",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.appender.fileOut.MaxFileSize'"
+  },
+  {
+    "name": "log4j.appender.fileOut.layout",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.appender.fileOut.layout'"
+  },
+  {
+    "name": "log4j.appender.fileOut.MaxBackupIndex",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.appender.fileOut.MaxBackupIndex'"
+  },
+  {
+    "name": "log4j.appender.fileOut.layout.ConversionPattern",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.appender.fileOut.layout.ConversionPattern'"
+  },
+  {
+    "name": "security.oauth2.client.client-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'security.oauth2.client.client-secret'"
+  },
+  {
+    "name": "log4j.rootCategory",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.rootCategory'"
+  },
+  {
+    "name": "log4j.rootCategory",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.rootCategory'"
+  },
+  {
+    "name": "log4j.rootCategory",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.rootCategory'"
+  },
+  {
+    "name": "log4j.rootCategory",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.rootCategory'"
+  },
+  {
+    "name": "log4j.rootCategory",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.rootCategory'"
+  },
+  {
+    "name": "log4j.rootCategory",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.rootCategory'"
+  },
+  {
+    "name": "log4j.rootCategory",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.rootCategory'"
+  },
+  {
+    "name": "log4j.rootCategory",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.rootCategory'"
+  },
+  {
+    "name": "log4j.rootCategory",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.rootCategory'"
+  },
+  {
+    "name": "log4j.rootCategory",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.rootCategory'"
+  },
+  {
+    "name": "log4j.rootCategory",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.rootCategory'"
+  },
+  {
+    "name": "log4j.appender.stdout.layout",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.appender.stdout.layout'"
+  },
+  {
+    "name": "log4j.rootCategory",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.rootCategory'"
+  },
+  {
+    "name": "log4j.rootCategory",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.rootCategory'"
+  },
+  {
+    "name": "log4j.appender.fileOut",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.appender.fileOut'"
+  },
+  {
+    "name": "log4j.appender.fileOut",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.appender.fileOut'"
+  },
+  {
+    "name": "log4j.appender.fileOut",
+    "type": "java.lang.String",
+    "description": "A description for 'log4j.appender.fileOut'"
+  },
+  {
+    "name": "databasetest.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'databasetest.datasource.driver-class-name'"
+  },
+  {
+    "name": "databasetest.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'databasetest.datasource.url'"
+  },
+  {
+    "name": "databasetest.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'databasetest.datasource.username'"
+  },
+  {
+    "name": "databasetest.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'databasetest.datasource.password'"
+  },
+  {
+    "name": "repositories.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'repositories.datasource.driver-class-name'"
+  },
+  {
+    "name": "repositories.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'repositories.datasource.username'"
+  },
+  {
+    "name": "repositories.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'repositories.datasource.password'"
+  },
+  {
+    "name": "repositories.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'repositories.datasource.url'"
+  },
+  {
+    "name": "repositories.jpa.database-platform",
+    "type": "java.lang.String",
+    "description": "A description for 'repositories.jpa.database-platform'"
+  }
+]}
